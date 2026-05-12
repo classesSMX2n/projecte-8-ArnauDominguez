@@ -4,9 +4,9 @@ Digitalitzant les petites i mitjanes empreses.
 
 ## Autor
 
-Nom: [Escriu el teu nom aquí]
+Nom: Arnau Domínguez Turull
 
-Formant grups de treball: [Escriu els noms dels membres del grup aquí]: 
+Formant grups de treball: Arnau Domínguez i Aleix Morillas: 
 
 ## Descripció del projecte
 
